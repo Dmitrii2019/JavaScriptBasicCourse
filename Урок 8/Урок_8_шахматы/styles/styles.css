@@ -1,0 +1,29 @@
+html {
+    background: #cfcfcf;
+}
+
+table {
+    border-collapse: collapse;
+    background: white;
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.black {
+	background: #cccccc;
+}
+
+.number, .letters {
+	background: #b3b3b3;
+	border: 1px solid black;
+	width: 20px;
+    height: 20px;
+	text-align:center;
+}
+
+
